@@ -1,10 +1,16 @@
-Здесь вы можете ознакомиться с проектами, в которых принимал участие или разрабатывал самостоятельно:
+## Здравствуйте!
 
-https://github.com/victoriaiero42/proCoffee - web приложение для мобильных устройств упрощающее получение информации по кофе сегмента specialty c функционалом расшифровки текста по фото (аналог vivino).
+Меня зовут Игорь, я работаю в IT в области Frontend разработки и сейчас открыт к сотрудничеству.
 
-// сейчас в стадии deploy мобильной верстки на heroku: https://cocoffee.herokuapp.com/ (весь функционал может быть сейчас недоступен)
+С моим резюме можно ознакомиться [здесь](https://drive.google.com/file/d/1QxBo5p6gFSXDUNs6brG05dT3CI_3aL1Q/view)
 
-Использованные технологии: React(Hooks, Redux-Saga), Express.js, Node.js, MongoDB(mongoose), Material-UI, Tesseract.js, Passport.js, Nodemailer.
+![Igor](https://user-images.githubusercontent.com/63601766/97906302-77d77780-1d54-11eb-9801-f47db3dc44e8.jpg)
+
+На этой странице вы можете ознакомиться с проектами, в которых я принимал участие или разрабатывал самостоятельно:
+
+## ProCoffee
+[ProCoffee](https://github.com/KovinkoR/ProCoffe) - web приложение для мобильных устройств упрощающее получение информации по кофе сегмента specialty c функционалом расшифровки текста по фото (аналог vivino).
+
 Обязанности:
 - проектирование и создание серверной и клиентской части
 - написание логики авторизации
@@ -12,16 +18,67 @@ https://github.com/victoriaiero42/proCoffee - web приложение для м
 - интеграция Nodemailer
 - рефакторинг кода и deploy проекта на heroku с бд на atlas(mongoDB)
 
+Использованные технологии:
+- [React](https://reactjs.org/)
+- [Redux (Saga)](https://redux.js.org/)
+- [JavaScript](https://developer.mozilla.org/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Material UI](https://material-ui.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Passport.js](http://www.passportjs.org/)
+- [Tesseract.js](https://tesseract.projectnaptha.com/)
+- [Nodemailer](https://nodemailer.com/)
 
-https://github.com/KovinkoR/delovery - web приложение по доставке еды.
-Использованные технологии: Express.js, HBS, Node.js, MongoDB(mongoose), HTML, CSS, Passport.js, Nodemailer, Google APi.
+
+## Metaphoric-cards
+[Metaphoric-cards](https://github.com/KovinkoR/Metaphoric-cards)
+
+Обязанности:
+- разработка базы данных
+- логика приложения
+
+Использованные технологии:
+- [JavaScript](https://developer.mozilla.org/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Multer](https://www.npmjs.com/package/multer)
+- [Handlebars.js](https://handlebarsjs.com/)
+
+## Delovery
+[Delovery](https://github.com/KovinkoR/Delovery_) - приложение для доставки еды.
 
 Обязанности:
 - участие в разработке архитектуры приложения
 - разработка логики взаимодействия приложения с курьерами
-- написание hbs-файлов авторизации
+- написание логики авторизации
+
+Использованные технологии:
+- [JavaScript](https://developer.mozilla.org/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Nodemailer](https://nodemailer.com/)
+- [Handlebars.js](https://handlebarsjs.com/)
+- [Yandex API](https://yandex.ru/dev/maps/geocoder/)
 
 
-https://github.com/KovinkoR/TelegramBot - собственный проект: телеграм бот погоды (используются locationiq.API и darksky.API)
+## TelegramBot
+[TelegramBot](https://github.com/KovinkoR/TelegramBot) - собственный проект: Т-бот рассказывающий о погоде по введенному адресу.
 
-Использованные технологии: Express.js, Telegraf.js, MongoDB(mongoose), axios.
+Использованные технологии:
+- [telegraf.js](https://telegraf.js.org/#/)
+- [JavaScript](https://developer.mozilla.org/)
+- [Dark Sky API](https://darksky.net/dev)
+- [LocationIQ](https://locationiq.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
