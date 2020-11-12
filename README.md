@@ -2,7 +2,7 @@
 
 Меня зовут Игорь, я работаю в IT в области Frontend разработки и сейчас открыт к сотрудничеству.
 
-С моим резюме можно ознакомиться [здесь](https://drive.google.com/file/d/1IxmDJzyER0H6WmEkOUahKKUWJMUagxy1/view?usp=sharing)
+С моим резюме можно ознакомиться [здесь](https://drive.google.com/file/d/14q6qF8_rH-VXq4Z_5IOhz-diWBxO41LM/view?usp=sharing)
 
 ![Igor](https://user-images.githubusercontent.com/63601766/97906302-77d77780-1d54-11eb-9801-f47db3dc44e8.jpg)
 
